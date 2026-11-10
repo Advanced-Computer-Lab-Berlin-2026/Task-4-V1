@@ -78,14 +78,8 @@ npm run dev
 
 The terminal prints **one local URL** (usually `http://localhost:5173/`). Open it in your normal browser — the dev server does **not** open a browser automatically. Press `Ctrl+C` to stop it.
 
-Other scripts:
 
-```bash
-npm run build     # production build into dist/
-npm run preview   # serve the production build locally
-```
 
----
 
 ## Project structure
 
